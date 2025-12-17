@@ -1,0 +1,5 @@
+{
+  "name": "Gumrung School Timer",
+  "description": "A compact, aesthetic desktop widget to track school periods, breaks, and remaining time based on your custom schedule.",
+  "requestFramePermissions": []
+}
